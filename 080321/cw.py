@@ -1,5 +1,5 @@
-import some_func
+import some_func as func
 
-some_func.sum(1, 2)
-some_func.power(1, 2)
-some_func.multiplication(1, 2)
+func.sum(1, 2)
+func.power(1, 2)
+func.multiplication(1, 2)
